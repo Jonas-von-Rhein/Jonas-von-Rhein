@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hey, I'm Jonas
+
+CS student at TU Darmstadt with a focus on ML Engineering.
+
+This is where I document my learning journey – from fundamentals to production-ready ML systems.
+
+Currently: Python, PyTorch, Mathematics, Git workflows
+Goal: ML Engineer
 
 <!--
 **Jonas-von-Rhein/Jonas-von-Rhein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
